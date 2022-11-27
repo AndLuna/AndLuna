@@ -1,4 +1,4 @@
-<img align="right" alt ="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47slh80j6gxq13tcaw6bsq37grlhc5hc8jfonupqmt&rid=giphy.gif&ct=g"> 
+<img align="right" alt ="Coding" width="270" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47slh80j6gxq13tcaw6bsq37grlhc5hc8jfonupqmt&rid=giphy.gif&ct=g"> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndLuna&color=blueviolet" alt="Profile views"/></p>
 
 <ul>
