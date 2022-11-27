@@ -1,4 +1,4 @@
-<img align="right" alt ="Coding" width="250" height = 180 src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47slh80j6gxq13tcaw6bsq37grlhc5hc8jfonupqmt&rid=giphy.gif&ct=g"> 
+<img align="right" alt ="Coding" width="300" height = 200 src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47slh80j6gxq13tcaw6bsq37grlhc5hc8jfonupqmt&rid=giphy.gif&ct=g"> 
 
 
 <ul>
@@ -9,8 +9,11 @@
 <li>:dart: | <strong>Minimalist Enjoyer</strong></li> 
 </ul>
 
-##
 
+<br>
+
+
+##
 <h3 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
 
