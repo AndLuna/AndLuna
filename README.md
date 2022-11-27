@@ -1,5 +1,5 @@
 <img align="right" alt ="Coding" width="270" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47slh80j6gxq13tcaw6bsq37grlhc5hc8jfonupqmt&rid=giphy.gif&ct=g"> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AndLuna&color=blueviolet" alt="Profile views"/></p>
+
 
 <ul>
 <li>:rocket: | <strong>FullStack Developer Student - <a href="https://www.digitalhouse.com/br">Digital House</a></strong></li>
@@ -40,3 +40,4 @@
   <a href="https://trailblazer.me/id/aluna68" target="_blank"><img src="https://img.shields.io/badge/TrailBlazer-1C1C1C?style=for-the-badge&logo=Salesforce&logoColor=50EBFA" /></a>  
   
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AndLuna&color=blueviolet" alt="Profile views"/></p>
