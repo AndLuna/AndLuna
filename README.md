@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Eu sou o Luna </h1>
+<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Eu sou o Luna </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+em+forma%C3%A7%C3%A3o;com+uma+quedinha+por+Back-end)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@ Tempos depois, fui aceito numa bolsa de estudos na <a href="https://soulcodeacad
 **********
 <div align="left">
 🌱 Atualmente, estou aprendendo <strong>LWC - Lightning Web Components</strong><br>
-💬 Posso responder perguntas sobre <strong>APEX, Triggers, Classes de teste, SOQL, JavaScript e React</strong><br>
+💻 <strong>Salesforce Ranger Developer - APEX | LWC | SOQL | NodeJs | React </strong><br>
 ⚡ Fun fact - <strong> Sou fã de Final Fantasy. </strong></h4> 
 </div>
 
