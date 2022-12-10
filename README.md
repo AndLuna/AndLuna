@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=1000&lines=Dev+SalesForce+em+forma%C3%A7%C3%A3o;com+uma+quedinha+por+Back-end)](https://git.io/typing-svg)
 
-<img align="left" src="https://cdn.picrew.me/shareImg/org/202212/644129_fjR68uBo.png" width="320px"> Enquanto estudava ciências econômicas na UFBA fui apresentado ao mundo do desenvolvimento por um amigo, participei de eventos sobre programação orientada a Web e comecei meus estudos em desenvolvimento Full Stack pela <strong><a href="https://www.digitalhouse.com/br">Digital House.</a></strong>
+<img align="left" src="https://cdn.picrew.me/shareImg/org/202212/644129_judF59dj.png" width="320px"> Enquanto estudava ciências econômicas na UFBA fui apresentado ao mundo do desenvolvimento por um amigo, participei de eventos sobre programação orientada a Web e comecei meus estudos em desenvolvimento Full Stack pela <strong><a href="https://www.digitalhouse.com/br">Digital House.</a></strong>
 <br>
 Tempos depois, fui aceito numa bolsa de estudos na <a href="https://soulcodeacademy.org">SoulCode Academy</a></strong> e iniciei meu aprendizado em desenvolvimento Salesforce, onde ampliei minhas habilidades em programação orientada a objetos em APEX.
 
