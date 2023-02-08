@@ -33,34 +33,10 @@
 <br>
 
 
-##
-<h3 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
-
-
-<div style="display: inline_block" align="center"> 
-  
-  [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,html,css)](https://skillicons.dev)
-   
-  [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode)](https://skillicons.dev)
-  <!--<a href="https://github.com/AndLuna"><img align="center" alt="BBM-Postman" height="45" width="50" href="https://github.com/AndLuna" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png"/></a>--> 
-
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/AndLuna"><img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=AndLuna&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" /></a>
-  <a href="https://github.com/AndLuna"><img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndLuna&layout=compact&langs_count=7&theme=vue-dark"/></a>
-</div>
 
 ##
-  
-<p align="center"><strong>Where find me:</strong><p> 
 
-<div align="center">   
-  <a href="https://www.linkedin.com/in/AndLuna/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://trailblazer.me/id/aluna86" target="_blank"><img src="https://img.shields.io/badge/TrailBlazer-1C1C1C?style=for-the-badge&logo=Salesforce&logoColor=50EBFA" /></a>  
   
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndLuna&color=blueviolet" alt="Profile views"/></p>
