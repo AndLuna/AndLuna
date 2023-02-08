@@ -8,9 +8,9 @@
 
 **********
 <div align="left">
-🌱 Atualmente, estou aprendendo <strong>LWC - Lightning Web Components</strong><br>
-💻 <strong>Salesforce Ranger Developer - APEX | LWC | SOQL | NodeJs | React </strong><br>
-⚡ Fun fact - <strong> Sou fã de Final Fantasy. </strong></h4> 
+💻 <strong>Salesforce Ranger Developer -  Apex | LWC | AURA | CRM | SalesCloud </strong><br>
+⚡ Web Developer - <strong>   | React | NodeJs | MVC | Bootstrap </strong></h4> 
+
 </div>
 
 ***************	
