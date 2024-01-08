@@ -1,14 +1,13 @@
 
 <h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Eu sou o Luna </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=1000&lines=Dev+SalesForce;com+uma+quedinha+por+Back-end)](https://git.io/typing-svg)
 
-<img align="left" src="https://cdn.picrew.me/shareImg/org/202212/644129_ECWDWlL3.png" width="320px">
+<img align="center" src="https://i.imgur.com/KOeWflk.jpg" >
 <br>
 
 **********
 <div align="left">
-💻 <strong>Salesforce Developer | ☁ 2x Salesforce Certified | CRM ANALYTICS | CPQ | APEX | LWC | ⭐⭐ Double Ranger </strong><br>
+💻 <strong>Salesforce Developer | ☁ 2x Salesforce Certified | SALES | SERVICE | CPQ | INDUSTRIES | ⭐⭐ Double Ranger </strong><br>
 
 </div>
 
